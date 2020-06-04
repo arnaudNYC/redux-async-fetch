@@ -1,0 +1,18 @@
+{
+  "increment": {
+    "value": 1
+  },
+  "decrement": {
+    "value": -1
+  },
+  "todos": [
+    {
+      "id": 1,
+      "task": "Buy cheese"
+    },
+    {
+      "id": 2,
+      "task": "Bake baguette"
+    }
+  ]
+}

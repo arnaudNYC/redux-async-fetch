@@ -1,0 +1,18 @@
+{
+  "name": "redux-async-fetch-examples-redux-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm index"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
